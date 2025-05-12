@@ -1,0 +1,714 @@
+{
+  "keys": [
+    "loreal-paris/lumi-glotion-rozjasniacz-kremowy-o-dzialaniu-nawilzajacym/p-16243922/"
+  ],
+
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Loreal Paris Lumi Glotion",
+  "rpc": "LOR09387",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Loreal Paris Lumi Glotion",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./KV-mobile.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Lumi Glotion",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./KV.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Lumi Glotion",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "GOTOWA NA GLOW?",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "Odkryj <b>Lumi Glotion</b>, nowy rozświetlacz w płynie od L'Oreal Paris. Z Lumi Glotion osiągniesz <b>naturalnie promienne wykończenie, efekt tafli na skórze lub glass skin look</b> - wybierz sama!",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "./MOD-02.jpg",
+                "element": "img",
+                "alt": "Wybierz koloryzację",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<b>WYDOBĄDŹ SWÓJ BLASK</b> Z NOWOŚCIĄ <b>LUMI GLOTION</b>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "normal",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "40px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "LEKKA FORMUŁA",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "nadająca efekt zdrowej, <br>promiennej skóry.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "./MOD-03-A.jpg",
+                "element": "img",
+                "alt": "LEKKA FORMUŁA",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "MULTIFUNKCYJNE ZASTOSOWANIE",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "dla efektu glass skin lub <br>naturalnego rozświetlenia.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "./MOD-03-B.jpg",
+                "element": "img",
+                "alt": "MULTIFUNKCYJNE ZASTOSOWANIE",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "FORMUŁA Z MASŁEM SHEA <br>I GLICERYNĄ",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "dla nawilżenia aż do 24 godzin*.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "./MOD-03-C.jpg",
+                "element": "img",
+                "alt": "FORMUŁA Z MASŁEM",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><b>LUMI GLOTION,</b><br>MULTIFUNKCYJNY<br>ROZŚWIETLACZ W PŁYNIE</p><p>ROZŚWIETLENIE<br>I AŻ DO 24H NAWILŻENIA</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "lineHeight": "1.2",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "./MOD-04.jpg",
+                "element": "img",
+                "alt": "Wybierz koloryzację",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "DOSTĘPNY <b>W 3 ROZŚWIETLAJĄCYCH ODCIENIACH!</b>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "normal",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "40px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "901 FAIR GLOW",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "JASNY ODCIEŃ W RÓŻOWYM<br> POD-TONIE",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "./MOD-05-A.jpg",
+                "element": "img",
+                "alt": "JASNY ODCIEŃ",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "902 LIGHT GLOW",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "NEUTRALNY, <br>MULTIFUNKCYJNY ODCIEŃ",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "./MOD-05-B.jpg",
+                "element": "img",
+                "alt": "MULTIFUNKCYJNY ODCIEŃ",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "903 MEDIUM GLOW",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "BRĄZUJĄCY OCIEPLAJĄCY GLOW",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "./MOD-05-C.jpg",
+                "element": "img",
+                "alt": "GLOW",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<b>MULTIFUNKCYJNY SPOSÓB UŻYCIA</b>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "20px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><b>UŻYJ ZAMIAST PODKŁADU</b><br>Nałóż Glotion na czystą, nawilżoną skórę dla rozświetlenia i lekkiego krycia.</p><p><b>ZMIESZAJ Z KREMEM LUB PODKŁADEM</b><br>Stwórz swój własny efekt naturalnego glow.</p><p><b>ROZŚWIETLAJ I KONTURUJ</b><br>Nałóż jaśniejszy odcień (Fair lub Light Glow) na kości policzkowe, czubek nosa i środek czoła, aby rozświetlić twarz i ciemniejszy (Medium) Glow), aby delikatnie ją wykonturować.</p><p><b>NAŁÓŻ NA CIAŁO DLA PEŁNEGO GLOW</b><br> Zaaplikuj Glotion w wybranym odcieniu na ramiona, obojczyki i dekolt dla efektu pełnego rozświetlenia.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "18px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "./MOD-06.jpg",
+                "element": "img",
+                "alt": "Wybierz koloryzację",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<b>PRZYGOTUJ SIĘ NA GLOW!</b>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "40px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "./MOD-07-A.jpg",
+                "element": "img",
+                "alt": "Przed i Po",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "./MOD-07-B.jpg",
+                "element": "img",
+                "alt": "Przed i Po",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "./MOD-07-C.jpg",
+                "element": "img",
+                "alt": "Przed i Po",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "5px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:11px;margin-bottom: 3px\">*test instrumentalny</p></div>",
+                "element": "DangerHtml",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
