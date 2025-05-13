@@ -21,7 +21,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Lumi Glotion",
                 "properties": []
@@ -43,7 +43,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Lumi Glotion",
                 "properties": []
@@ -99,9 +99,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
-                "alt": "Wybierz koloryzację",
+                "alt": "Odkryj Lumi Glotion",
                 "properties": []
               }
             ],
@@ -178,7 +178,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-03-A.jpg",
+                "value": "MOD-03-A.jpg",
                 "element": "img",
                 "alt": "LEKKA FORMUŁA",
                 "properties": {}
@@ -208,7 +208,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-03-B.jpg",
+                "value": "MOD-03-B.jpg",
                 "element": "img",
                 "alt": "MULTIFUNKCYJNE ZASTOSOWANIE",
                 "properties": {}
@@ -238,7 +238,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-03-C.jpg",
+                "value": "MOD-03-C.jpg",
                 "element": "img",
                 "alt": "FORMUŁA Z MASŁEM",
                 "properties": {}
@@ -294,9 +294,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-04.jpg",
+                "value": "MOD-04.jpg",
                 "element": "img",
-                "alt": "Wybierz koloryzację",
+                "alt": "MULTIFUNKCYJNY ROZŚWIETLACZ",
                 "properties": []
               }
             ],
@@ -373,7 +373,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-05-A.jpg",
+                "value": "MOD-05-A.jpg",
                 "element": "img",
                 "alt": "JASNY ODCIEŃ",
                 "properties": {}
@@ -403,7 +403,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-05-B.jpg",
+                "value": "MOD-05-B.jpg",
                 "element": "img",
                 "alt": "MULTIFUNKCYJNY ODCIEŃ",
                 "properties": {}
@@ -433,7 +433,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-05-C.jpg",
+                "value": "MOD-05-C.jpg",
                 "element": "img",
                 "alt": "GLOW",
                 "properties": {}
@@ -521,9 +521,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-06.jpg",
+                "value": "MOD-06.jpg",
                 "element": "img",
-                "alt": "Wybierz koloryzację",
+                "alt": "UŻYJ ZAMIAST PODKŁADU",
                 "properties": []
               }
             ],
@@ -600,7 +600,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-07-A.jpg",
+                "value": "MOD-07-A.jpg",
                 "element": "img",
                 "alt": "Przed i Po",
                 "properties": {}
@@ -630,7 +630,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-07-B.jpg",
+                "value": "MOD-07-B.jpg",
                 "element": "img",
                 "alt": "Przed i Po",
                 "properties": {}
@@ -660,7 +660,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-07-C.jpg",
+                "value": "MOD-07-C.jpg",
                 "element": "img",
                 "alt": "Przed i Po",
                 "properties": {}
