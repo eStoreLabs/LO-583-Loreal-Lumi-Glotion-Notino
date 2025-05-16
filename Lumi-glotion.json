@@ -156,7 +156,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "LEKKA FORMUŁA <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">nadająca efekt zdrowej, <br>promiennej skóry.</p>",
+                "value": "LEKKA FORMUŁA <br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">nadająca efekt zdrowej, <br>promiennej skóry.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -186,7 +186,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "MULTIFUNKCYJNE <br>ZASTOSOWANIE<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">dla efektu glass skin lub <br>naturalnego rozświetlenia.</p>",
+                "value": "MULTIFUNKCYJNE <br>ZASTOSOWANIE<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">dla efektu glass skin lub <br>naturalnego rozświetlenia.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -216,7 +216,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "FORMUŁA Z MASŁEM SHEA <br>I GLICERYNĄ<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">dla nawilżenia aż do 24 godzin*.</p>",
+                "value": "FORMUŁA Z MASŁEM SHEA <br>I GLICERYNĄ<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">dla nawilżenia aż do 24 godzin*.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -351,7 +351,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "901 FAIR GLOW<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">JASNY ODCIEŃ W RÓŻOWYM<br> POD-TONIE</p>",
+                "value": "901 FAIR GLOW<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">JASNY ODCIEŃ W RÓŻOWYM<br> POD-TONIE</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -381,7 +381,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "902 LIGHT GLOW<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">NEUTRALNY, <br>MULTIFUNKCYJNY ODCIEŃ</p>",
+                "value": "902 LIGHT GLOW<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">NEUTRALNY, <br>MULTIFUNKCYJNY ODCIEŃ</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -411,7 +411,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "903 MEDIUM GLOW<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">BRĄZUJĄCY OCIEPLAJĄCY GLOW</p>",
+                "value": "903 MEDIUM GLOW<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">BRĄZUJĄCY OCIEPLAJĄCY GLOW</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
