@@ -70,7 +70,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "24px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "color": "#000",
                   "textAlign": "left",
@@ -79,6 +79,7 @@
                   "padding": "0 16px",
                   "lineHeight": "1",
                   "marginTop": "30px",
+                  "marginBottom": "50px",
                   "maxWidth": "100%"
                 }
               },
@@ -88,12 +89,12 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "16px",
+                  "fontSize": "18px",
                   "fontWeight": "normal",
                   "color": "#000000",
                   "text-align": "left",
                   "fontStyle": "normal",
-                  "maxWidth": "400px",
+                  "maxWidth": "410px",
                   "padding": "0 16px"
                 }
               },
@@ -125,12 +126,12 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "normal",
                   "textTransform": "normal",
                   "color": "#000",
                   "marginTop": "20px",
-                  "marginBottom": "40px",
+                  "marginBottom": "60px",
                   "text-align": "center"
                 }
               },
@@ -155,7 +156,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "LEKKA FORMUŁA",
+                "value": "LEKKA FORMUŁA <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">nadająca efekt zdrowej, <br>promiennej skóry.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -169,7 +170,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "nadająca efekt zdrowej, <br>promiennej skóry.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -185,7 +186,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "MULTIFUNKCYJNE ZASTOSOWANIE",
+                "value": "MULTIFUNKCYJNE <br>ZASTOSOWANIE<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">dla efektu glass skin lub <br>naturalnego rozświetlenia.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -199,7 +200,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "dla efektu glass skin lub <br>naturalnego rozświetlenia.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -215,7 +216,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "FORMUŁA Z MASŁEM SHEA <br>I GLICERYNĄ",
+                "value": "FORMUŁA Z MASŁEM SHEA <br>I GLICERYNĄ<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">dla nawilżenia aż do 24 godzin*.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -229,7 +230,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "dla nawilżenia aż do 24 godzin*.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -264,7 +265,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "24px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "color": "#000",
                   "textAlign": "left",
@@ -320,12 +321,12 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "normal",
                   "textTransform": "normal",
                   "color": "#000",
                   "marginTop": "20px",
-                  "marginBottom": "40px",
+                  "marginBottom": "60px",
                   "text-align": "center"
                 }
               },
@@ -350,7 +351,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "901 FAIR GLOW",
+                "value": "901 FAIR GLOW<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">JASNY ODCIEŃ W RÓŻOWYM<br> POD-TONIE</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -364,7 +365,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "JASNY ODCIEŃ W RÓŻOWYM<br> POD-TONIE",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -380,7 +381,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "902 LIGHT GLOW",
+                "value": "902 LIGHT GLOW<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">NEUTRALNY, <br>MULTIFUNKCYJNY ODCIEŃ</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -394,7 +395,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "NEUTRALNY, <br>MULTIFUNKCYJNY ODCIEŃ",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -410,7 +411,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "903 MEDIUM GLOW",
+                "value": "903 MEDIUM GLOW<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">BRĄZUJĄCY OCIEPLAJĄCY GLOW</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -424,7 +425,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "BRĄZUJĄCY OCIEPLAJĄCY GLOW",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -492,7 +493,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "24px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "color": "#000",
                   "textAlign": "left",
@@ -552,7 +553,7 @@
                   "textTransform": "normal",
                   "color": "#000",
                   "marginTop": "20px",
-                  "marginBottom": "40px",
+                  "marginBottom": "60px",
                   "text-align": "center"
                 }
               },
